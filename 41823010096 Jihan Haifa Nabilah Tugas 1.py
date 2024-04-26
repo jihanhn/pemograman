@@ -26,5 +26,5 @@ while (True):
         print ("Dalam Huruf C-")
     elif nilai > 30 :
         print ("Dalam Huruf D")
-    else :
+    elif nilai <= 30 :
         print ("Dalam Huruf E")
